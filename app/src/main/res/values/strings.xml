@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Quizzes</string>
+    <string name="enviar">Enviar</string>
+    <string name="preguntas">Preguntas</string>
+    <string name="QueAnimalEsMasRapido">¿Qué animal es más rápido?</string>
+    <string name="Liebre">Liebre</string>
+    <string name="QuePesaMas">¿Qué pesa más?</string>
+    <string name="UnKgDeHierro">1kg de Hierro</string>
+    <string name="DosKgDeTela">2Kg de Tela</string>
+    <string name="Tortuga">Tortuga</string>
+    <string name="QueEstaMasAlto">¿Qué esta más alto?</string>
+    <string name="UnaNubeAUnKmDeAltura">Una nube a 1Km de altura</string>
+    <string name="UnaNubeA1500mDeAltura">Una nube a 1500m de altura</string>
+    <string name="mensajeDelTst">No has marcado ninguna respuesta</string>
+    <string name="RespCorrecta">¡Esa respuesta es correcta!</string>
+    <string name="RespIncorrecta">¡Esa respuesta es incorrecta!</string>
+    <string name="SiguientePregunta">Siguiente pregunta</string>
+    <string name="RecomenzarQuiz">Recomenzar Quiz</string>
+    <string name="ResultadosTitle">Resultados</string>
+    <string name="Fin">Fin del Quiz</string>
+</resources>

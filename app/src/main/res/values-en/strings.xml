@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enviar">Send</string>
+    <string name="preguntas">Questions</string>
+    <string name="QueAnimalEsMasRapido">Which animal is faster?</string>
+    <string name="Liebre">Hare</string>
+    <string name="QuePesaMas">Which is heavier?</string>
+    <string name="UnKgDeHierro">1kg of Iron</string>
+    <string name="DosKgDeTela">2Kg of Silk</string>
+    <string name="Tortuga">Tortoise</string>
+    <string name="QueEstaMasAlto">Which is higher?</string>
+    <string name="UnaNubeAUnKmDeAltura">One cloud at 1Km of height</string>
+    <string name="UnaNubeA1500mDeAltura">One cloud at 1500m of height</string>
+    <string name="mensajeDelTst">You have not marked any answer</string>
+    <string name="RespCorrecta">That answer is correct!</string>
+    <string name="RespIncorrecta">That answer is incorrect</string>
+    <string name="SiguientePregunta">Next Question</string>
+    <string name="RecomenzarQuiz">Restart Quiz</string>
+    <string name="ResultadosTitle">Results</string>
+    <string name="Fin">End of the Quiz</string>
+</resources>
